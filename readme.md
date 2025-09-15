@@ -13,7 +13,7 @@ pwd: print current absolute path
 w: Shows who is logged in, what they're doing and for how long
 mv: Move or rename files and directories
 mkdir: Create a directory
-touch:
+touch: Create a file
 cd:
 find:
 file:
