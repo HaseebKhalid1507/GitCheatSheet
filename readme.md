@@ -1,7 +1,7 @@
 # Git
 init: initialise the git repo
 branch: create a branch
-add:
+add: adds changes to staging area
 commit:
 push:
 
