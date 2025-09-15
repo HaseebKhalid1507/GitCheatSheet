@@ -9,7 +9,7 @@ push: Pushes commits to remote location where repo is hosted, eg: Github. Gitlab
 
 ls: lists all files and dirs in a directory
 cat: concatonates and displays contents of a file
-pwd: 
+pwd: print current absolute path
 w:
 mv:
 mkdir:
