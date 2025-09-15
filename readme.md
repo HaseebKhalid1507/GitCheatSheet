@@ -11,7 +11,7 @@ ls: lists all files and dirs in a directory
 cat: concatonates and displays contents of a file
 pwd: print current absolute path
 w: Shows who is logged in, what they're doing and for how long
-mv: 
+mv: Move or rename files and directories
 mkdir:
 touch:
 cd:
