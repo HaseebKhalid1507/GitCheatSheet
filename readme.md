@@ -15,6 +15,6 @@ mv: Move or rename files and directories
 mkdir: Create a directory
 touch: Create a file
 cd: Move to a location/Directory
-find:
+find: Searches for files/Directories in breadth first search manner.
 file:
 
