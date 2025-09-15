@@ -16,5 +16,5 @@ mkdir: Create a directory
 touch: Create a file
 cd: Move to a location/Directory
 find: Searches for files/Directories in breadth first search manner.
-file:
+file: Determines type of file
 
