@@ -7,7 +7,7 @@ push: Pushes commits to remote location where repo is hosted, eg: Github. Gitlab
 
 # GNU/UNIX
 
-ls:
+ls: lists all files and dirs in a directory
 cat:
 pwd:
 w:
