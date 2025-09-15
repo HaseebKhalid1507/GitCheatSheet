@@ -8,8 +8,8 @@ push: Pushes commits to remote location where repo is hosted, eg: Github. Gitlab
 # GNU/UNIX
 
 ls: lists all files and dirs in a directory
-cat:
-pwd:
+cat: concatonates and displays contents of a file
+pwd: 
 w:
 mv:
 mkdir:
